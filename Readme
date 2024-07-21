@@ -1,0 +1,2 @@
+Si le code est lancé tel quel il ne fonctionnera pas car il faut changer le chemin en brut des différents fichier .off
+Vous devrez les changer dans le fichier "geometricworld.cpp" et "mainwindow.cpp".
